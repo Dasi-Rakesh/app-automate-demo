@@ -1,0 +1,5 @@
+com/pages/BasePage.class
+com/browserstack/AppiumTest.class
+com/browserstack/BrowserStackDemoAppTest.class
+com/pages/HomePage.class
+com/browserstack/LocalTest.class
